@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.section{
+    padding-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    text-shadow: 4px 4px 8px pink;
+}
+p{
+    text-align: center;
+    border-radius: 5px;
+    border: solid;
+    border-color: rgb(6, 6, 64);
+    padding: 10px;
+    margin: 10px;
+    height: 100px;
+    padding-top: 20px;
+    font-size: 80px;
+    font-weight: bold;
+}
+button{
+    padding: 4px;
+    margin: 5px;
+    width: 130px;
+    height: 40px;
+    background-color: rgb(164, 103, 126);
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
